@@ -1,0 +1,18 @@
+Crea una aplicación web de control de gastos personales utilizando únicamente HTML, CSS y JavaScript, sin frameworks ni dependencias externas.
+Requisitos:
+- Diseño moderno, oscuro y profesional, con acentos verdes.
+- Panel principal con saldo total, ingresos y gastos.
+- Lista de movimientos con al menos 8 operaciones de ejemplo.
+- Gráfico de gastos por categorías creado con CSS o SVG.
+- Formulario funcional para añadir ingresos y gastos.
+- Actualización automática del saldo, las estadísticas y el gráfico al añadir movimientos.
+- Persistencia de los movimientos mediante localStorage.
+- Diseño adaptable a escritorio y móvil.
+Instrucciones de ejecución:
+1. Trabaja exclusivamente dentro de la carpeta actual.
+2. Crea los archivos necesarios.
+3. No instales paquetes ni utilices servicios externos.
+4. Comprueba que los archivos y la lógica JavaScript sean correctos.
+5. No añadas funcionalidades que no se hayan solicitado.
+6. Al terminar, indica qué archivos has creado y cómo abrir la aplicación.
+Prioriza una aplicación funcional, visualmente atractiva y sencilla. No dediques tiempo a características adicionales.

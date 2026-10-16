@@ -1,0 +1,13 @@
+﻿archivo_original,categoria,archivo_destino,duplicado_de,estado
+apuntes_07.txt,facturas,facturas/apuntes_07.txt,,UNICO
+copia_archivo.log,facturas,,apuntes_07.txt,DUPLICADO_DESCARTADO
+registro_B.md,facturas,facturas/registro_B.md,,UNICO
+resumen_azul.csv,facturas,facturas/resumen_azul.csv,,UNICO
+borrador_12.md,documentos,documentos/borrador_12.md,,UNICO
+datos_04.json,documentos,documentos/datos_04.json,,UNICO
+factura_pendiente.txt,documentos,documentos/factura_pendiente.txt,,UNICO
+nota_final.log,documentos,documentos/nota_final.log,,UNICO
+documento_09.txt,notas,notas/documento_09.txt,,UNICO
+recorte_02.md,notas,,documento_09.txt,DUPLICADO_DESCARTADO
+factura_ideas.log,notas,notas/factura_ideas.log,,UNICO
+lista_11.csv,notas,notas/lista_11.csv,,UNICO

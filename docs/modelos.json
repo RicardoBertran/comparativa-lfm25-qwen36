@@ -1,0 +1,28 @@
+{
+  "fecha_comprobacion": "2026-10-16",
+  "modelos": [
+    {
+      "archivo": "LFM2.5-24B-A2B-Q4_K_M.gguf",
+      "bytes": 14526258464,
+      "sha256": "d3334405b96228eb9908cdebb5c6194908f2da64282bda852afc3a3910c64e7d",
+      "procedencia": "Coincidencia SHA-256 con LiquidAI/LFM2.5-24B-A2B-GGUF",
+      "revision": "0912d33141f77e10705345a6732bfd83f0252fdc",
+      "pagina": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF/blob/0912d33141f77e10705345a6732bfd83f0252fdc/LFM2.5-24B-A2B-Q4_K_M.gguf"
+    },
+    {
+      "archivo": "Qwen3.6-35B-A3B-Q4_K_M.gguf",
+      "bytes": 20419565568,
+      "sha256": "671e47e0ec53c665d048b98c3ecbfd5236b5ca9c3e02ed19fc8f81f7b85140c7",
+      "procedencia": "Coincidencia exacta de tamaño y SHA-256 con ggml-org/Qwen3.6-35B-A3B-GGUF; conversión distribuida por el proyecto ggml-org, distinto del autor original Qwen.",
+      "metadatos_gguf": {
+        "general.name": "Qwen3.6-35B-A3B",
+        "general.architecture": "qwen35moe",
+        "general.file_type": 15,
+        "general.quantization_version": 2
+      },
+      "revision": "baec3ebee244827cda0f4557eafa8b28f7545fa6",
+      "pagina": "https://huggingface.co/ggml-org/Qwen3.6-35B-A3B-GGUF/blob/baec3ebee244827cda0f4557eafa8b28f7545fa6/Qwen3.6-35B-A3B-Q4_K_M.gguf",
+      "api_metadata": "https://huggingface.co/api/models/ggml-org/Qwen3.6-35B-A3B-GGUF/revision/baec3ebee244827cda0f4557eafa8b28f7545fa6?blobs=true"
+    }
+  ]
+}

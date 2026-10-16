@@ -1,0 +1,32 @@
+{
+  "fecha": "2026-10-16",
+  "modelo_nuevamente_ejecutado": false,
+  "codigo_fuente_modificado": false,
+  "qwen": {
+    "ingreso_100": "comprobado",
+    "gasto_30": "comprobado",
+    "saldo_final": "2045,34",
+    "ingresos_finales": "3200,00",
+    "gastos_finales": "1154,66",
+    "persistencia_tras_recarga": true,
+    "movil_viewport_solicitado": [
+      390,
+      844
+    ],
+    "movil_ancho_util": 375,
+    "movil_ancho_contenido": 585,
+    "desbordamiento_horizontal": true,
+    "errores_consola_capturados_en_secuencia": [],
+    "jquery_bloqueado_para_probar_dependencia_funcional": false
+  },
+  "muestra_compartida_posterior": {
+    "resultado_intacto_liquid": false,
+    "error_observado": "TypeError: Cannot read properties of null (reading addEventListener), script.js:130",
+    "css_disponible": false
+  },
+  "capturas": [
+    "assets/qwen-revision-escritorio.jpg",
+    "assets/qwen-revision-movil.jpg",
+    "assets/compartido-posterior-revision.jpg"
+  ]
+}

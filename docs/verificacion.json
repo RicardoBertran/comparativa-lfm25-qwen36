@@ -1,0 +1,303 @@
+{
+  "verificacion_del_paquete_ok": true,
+  "fallos_integridad": [],
+  "inventario": {
+    "inicial": {
+      "codigo_salida": 1,
+      "tests_identicos": true,
+      "salida": "test_reponer (__main__.TestsInventario.test_reponer) ... FAIL\ntest_sin_stock (__main__.TestsInventario.test_sin_stock) ... FAIL\ntest_valor_total (__main__.TestsInventario.test_valor_total) ... FAIL\ntest_venta_correcta (__main__.TestsInventario.test_venta_correcta) ... ok\n\n======================================================================\nFAIL: test_reponer (__main__.TestsInventario.test_reponer)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"<REPOSITORIO>\\pruebas\\02-inventario\\inicial\\inventario.py\", line 28, in test_reponer\n    self.assertEqual(self.inv.productos[\"Teclado\"][\"cantidad\"], 15)\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: 5 != 15\n\n======================================================================\nFAIL: test_sin_stock (__main__.TestsInventario.test_sin_stock)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"<REPOSITORIO>\\pruebas\\02-inventario\\inicial\\inventario.py\", line 35, in test_sin_stock\n    self.assertFalse(self.inv.vender(\"Raton\", 20))\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: True is not false\n\n======================================================================\nFAIL: test_valor_total (__main__.TestsInventario.test_valor_total)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"<REPOSITORIO>\\pruebas\\02-inventario\\inicial\\inventario.py\", line 39, in test_valor_total\n    self.assertEqual(self.inv.valor_total(), 325)\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: 55 != 325\n\n----------------------------------------------------------------------\nRan 4 tests in 0.001s\n\nFAILED (failures=3)\n"
+    },
+    "liquid": {
+      "codigo_salida": 0,
+      "tests_identicos": true,
+      "salida": "test_reponer (__main__.TestsInventario.test_reponer) ... ok\ntest_sin_stock (__main__.TestsInventario.test_sin_stock) ... ok\ntest_valor_total (__main__.TestsInventario.test_valor_total) ... ok\ntest_venta_correcta (__main__.TestsInventario.test_venta_correcta) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK\n"
+    },
+    "qwen": {
+      "codigo_salida": 0,
+      "tests_identicos": true,
+      "salida": "test_reponer (__main__.TestsInventario.test_reponer) ... ok\ntest_sin_stock (__main__.TestsInventario.test_sin_stock) ... ok\ntest_valor_total (__main__.TestsInventario.test_valor_total) ... ok\ntest_venta_correcta (__main__.TestsInventario.test_venta_correcta) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK\n"
+    }
+  },
+  "organizacion": {
+    "liquid": {
+      "clasificados_correctamente": 2,
+      "contenidos_unicos_esperados": 10,
+      "archivos_salida": 10,
+      "contenidos_salida_preservados": true,
+      "entrada_conservada": false,
+      "archivos_entrada": 0,
+      "filas_csv": 12,
+      "codificacion_csv": "utf-16",
+      "detalle": [
+        {
+          "originales": [
+            "apuntes_07.txt",
+            "copia_archivo.log"
+          ],
+          "esperada": "facturas",
+          "destinos": [
+            "notas/apuntes_07.txt"
+          ],
+          "correcto": false
+        },
+        {
+          "originales": [
+            "borrador_12.md"
+          ],
+          "esperada": "documentos",
+          "destinos": [
+            "documentos/borrador_12.md"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "datos_04.json"
+          ],
+          "esperada": "documentos",
+          "destinos": [
+            "documentos/datos_04.json"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "documento_09.txt",
+            "recorte_02.md"
+          ],
+          "esperada": "notas",
+          "destinos": [
+            "documentos/documento_09.txt"
+          ],
+          "correcto": false
+        },
+        {
+          "originales": [
+            "factura_ideas.log"
+          ],
+          "esperada": "notas",
+          "destinos": [
+            "facturas/factura_ideas.log"
+          ],
+          "correcto": false
+        },
+        {
+          "originales": [
+            "factura_pendiente.txt"
+          ],
+          "esperada": "documentos",
+          "destinos": [
+            "facturas/factura_pendiente.txt"
+          ],
+          "correcto": false
+        },
+        {
+          "originales": [
+            "lista_11.csv"
+          ],
+          "esperada": "notas",
+          "destinos": [
+            "documentos/lista_11.csv"
+          ],
+          "correcto": false
+        },
+        {
+          "originales": [
+            "nota_final.log"
+          ],
+          "esperada": "documentos",
+          "destinos": [
+            "notas/nota_final.log"
+          ],
+          "correcto": false
+        },
+        {
+          "originales": [
+            "registro_B.md"
+          ],
+          "esperada": "facturas",
+          "destinos": [
+            "documentos/registro_B.md"
+          ],
+          "correcto": false
+        },
+        {
+          "originales": [
+            "resumen_azul.csv"
+          ],
+          "esperada": "facturas",
+          "destinos": [
+            "documentos/resumen_azul.csv"
+          ],
+          "correcto": false
+        }
+      ],
+      "errores": [
+        "Clasificación o número de copias incorrecto: apuntes_07.txt",
+        "Clasificación o número de copias incorrecto: documento_09.txt",
+        "Clasificación o número de copias incorrecto: factura_ideas.log",
+        "Clasificación o número de copias incorrecto: factura_pendiente.txt",
+        "Clasificación o número de copias incorrecto: lista_11.csv",
+        "Clasificación o número de copias incorrecto: nota_final.log",
+        "Clasificación o número de copias incorrecto: registro_B.md",
+        "Clasificación o número de copias incorrecto: resumen_azul.csv",
+        "La entrada no conserva exactamente los 12 originales",
+        "Categoría CSV incorrecta: apuntes_07.txt",
+        "Destino CSV en categoría incorrecta: apuntes_07.txt",
+        "Categoría CSV incorrecta: documento_09.txt",
+        "Destino CSV en categoría incorrecta: documento_09.txt",
+        "Categoría CSV incorrecta: lista_11.csv",
+        "Destino CSV en categoría incorrecta: lista_11.csv",
+        "Categoría CSV incorrecta: resumen_azul.csv",
+        "Destino CSV en categoría incorrecta: resumen_azul.csv",
+        "Categoría CSV incorrecta: registro_B.md",
+        "Destino CSV en categoría incorrecta: registro_B.md",
+        "Categoría CSV incorrecta: nota_final.log",
+        "Destino CSV en categoría incorrecta: nota_final.log",
+        "Categoría CSV incorrecta: factura_pendiente.txt",
+        "Destino CSV en categoría incorrecta: factura_pendiente.txt",
+        "Categoría CSV incorrecta: factura_ideas.log",
+        "Destino CSV en categoría incorrecta: factura_ideas.log",
+        "duplicado_de no identifica original equivalente: copia_archivo.log",
+        "Destino declarado para archivo descartado: copia_archivo.log",
+        "duplicado_de no identifica original equivalente: recorte_02.md",
+        "Destino declarado para archivo descartado: recorte_02.md"
+      ]
+    },
+    "qwen": {
+      "clasificados_correctamente": 10,
+      "contenidos_unicos_esperados": 10,
+      "archivos_salida": 10,
+      "contenidos_salida_preservados": true,
+      "entrada_conservada": true,
+      "archivos_entrada": 12,
+      "filas_csv": 12,
+      "codificacion_csv": "utf-8-sig",
+      "detalle": [
+        {
+          "originales": [
+            "apuntes_07.txt",
+            "copia_archivo.log"
+          ],
+          "esperada": "facturas",
+          "destinos": [
+            "facturas/apuntes_07.txt"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "borrador_12.md"
+          ],
+          "esperada": "documentos",
+          "destinos": [
+            "documentos/borrador_12.md"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "datos_04.json"
+          ],
+          "esperada": "documentos",
+          "destinos": [
+            "documentos/datos_04.json"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "documento_09.txt",
+            "recorte_02.md"
+          ],
+          "esperada": "notas",
+          "destinos": [
+            "notas/documento_09.txt"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "factura_ideas.log"
+          ],
+          "esperada": "notas",
+          "destinos": [
+            "notas/factura_ideas.log"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "factura_pendiente.txt"
+          ],
+          "esperada": "documentos",
+          "destinos": [
+            "documentos/factura_pendiente.txt"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "lista_11.csv"
+          ],
+          "esperada": "notas",
+          "destinos": [
+            "notas/lista_11.csv"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "nota_final.log"
+          ],
+          "esperada": "documentos",
+          "destinos": [
+            "documentos/nota_final.log"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "registro_B.md"
+          ],
+          "esperada": "facturas",
+          "destinos": [
+            "facturas/registro_B.md"
+          ],
+          "correcto": true
+        },
+        {
+          "originales": [
+            "resumen_azul.csv"
+          ],
+          "esperada": "facturas",
+          "destinos": [
+            "facturas/resumen_azul.csv"
+          ],
+          "correcto": true
+        }
+      ],
+      "errores": []
+    }
+  },
+  "alcance": "Archivos y tests; revisión actual limitada de gastos en navegador documentada por separado; sin nueva ejecución de agentes.",
+  "fecha": "2026-10-16",
+  "python": "3.14.6",
+  "controles_documentacion": {
+    "enlaces_relativos_rotos": [],
+    "coincidencias_rutas_privadas_o_patrones_credenciales": [],
+    "archivos_python_parseables": true,
+    "limite": "Búsqueda de patrones y revisión de archivos seleccionados; no es una garantía universal de ausencia de secretos."
+  },
+  "controles_adicionales": {
+    "copias_cotejadas_con_fuente_al_final": 53,
+    "svg_xml_valido": true,
+    "preparador_crea_32_archivos_en_ronda_nueva": true,
+    "prompts_identicos_para_ambos_modelos_en_las_tres_pruebas": true,
+    "preparador_rechaza_sobrescritura_sin_cambiar_ronda": true,
+    "auditor_cli_rechaza_liquid_y_acepta_qwen": true,
+    "verificador_detecta_alteracion_en_copia_aislada": true,
+    "sintaxis_js_recuperado_y_qwen_comprobada": true,
+    "modelo_qwen_identificado_por_hash_y_revision_remota": true
+  }
+}

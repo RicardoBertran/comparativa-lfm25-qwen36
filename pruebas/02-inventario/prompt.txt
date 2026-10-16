@@ -1,0 +1,16 @@
+Tienes un programa Python de gestión de inventario en el archivo inventario.py.
+El programa contiene varios errores de lógica.
+Tu tarea es:
+1. Examinar el código y ejecutar sus pruebas automáticas.
+2. Identificar los errores sin que yo te indique dónde están.
+3. Corregir los fallos conservando la estructura del programa.
+4. Ejecutar nuevamente las pruebas y comprobar que todas pasan.
+5. Si alguna falla, investigar y corregir el problema.
+Reglas:
+- No instales dependencias externas.
+- No elimines ni modifiques las pruebas para conseguir que pasen.
+- No crees archivos innecesarios.
+- No reescribas el programa desde cero.
+- Trabaja exclusivamente en la carpeta actual.
+Al terminar, indica los errores encontrados, las correcciones realizadas y el resultado real de las pruebas ejecutadas.
+Prioriza resolver la tarea de forma directa, sin añadir funcionalidades nuevas.

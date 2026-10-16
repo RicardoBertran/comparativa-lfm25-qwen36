@@ -1,0 +1,332 @@
+[
+  {
+    "archivo": "pruebas/02-inventario/inicial/inventario.py",
+    "origen": "Muestra inicial conservada para la presentación; hash coincide con la preparación original",
+    "sha256": "0f293dee3f2be855987ab9cdd63d49bbc817b468bcdb7774275e77e66581426c",
+    "bytes": 1302
+  },
+  {
+    "archivo": "pruebas/02-inventario/resultados/liquid/inventario.py",
+    "origen": "Resultado conservado de Liquid",
+    "sha256": "07e712462d27222a0b8ed22947c28d3524a4dfbf79f56a2bfd069a6c0a79b94c",
+    "bytes": 1385
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/documentos/borrador_12.md",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "e2d5b7583c9f007856b6dca0ff716b11665c50f54ffdcf243c1a6e75fe424a06",
+    "bytes": 157
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/documentos/datos_04.json",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "781ed8a58e285639d45a680589be8ebcbcc6b4c86d99ba05658563795fafc409",
+    "bytes": 124
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/documentos/documento_09.txt",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "7c1daa270ced04992c4c3dc232cf33929d7739a5bb809172851fe83e65cdd5d8",
+    "bytes": 157
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/documentos/lista_11.csv",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "7cfb939f9e3acfd5d5233c0053dd6bd736a8b551db25e94cb35c6f4561abcb41",
+    "bytes": 110
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/documentos/registro_B.md",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "75a4a6255f9f7e0b7db4c588fe0042cb8ce91ceec61101fbc508a8b633af9545",
+    "bytes": 148
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/documentos/resumen_azul.csv",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "33d405138ba7d549626db61e682c9409d2c6f3cf76600ee1f0b3f2073d898f6d",
+    "bytes": 83
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/facturas/factura_ideas.log",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "6a2dcb98fb31f915702671420db42b46fdc12d50357a51db29da7b2433f3572e",
+    "bytes": 124
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/facturas/factura_pendiente.txt",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "0ee9a3f59e32986ffcbbe62e5b9a723f0254f64afdab142c37e952d2ccf8475c",
+    "bytes": 159
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/informe.csv",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "c4666d7e732d8f20fe19139ea16f077813b6cc56163673453b1c29c260b0e57f",
+    "bytes": 1706
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/notas/apuntes_07.txt",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "050e8cb03b966f3e38bb04dbb0679dd6744e268451776585715e017c6f1543a0",
+    "bytes": 204
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/liquid/resultado/notas/nota_final.log",
+    "origen": "Resultado conservado de Liquid; bytes sin cambios",
+    "sha256": "f0b6b2d5cceb4e6061f5bac20d318e5e41d4149674a59630dc1ca005d944c59c",
+    "bytes": 138
+  },
+  {
+    "archivo": "pruebas/02-inventario/resultados/qwen/inventario.py",
+    "origen": "Resultado conservado de Qwen",
+    "sha256": "06fd88a1a891b846528534046f6c1f9427192ea3a7a86698aa9ace4f7379d59d",
+    "bytes": 1385
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/documentos/borrador_12.md",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "e2d5b7583c9f007856b6dca0ff716b11665c50f54ffdcf243c1a6e75fe424a06",
+    "bytes": 157
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/documentos/datos_04.json",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "781ed8a58e285639d45a680589be8ebcbcc6b4c86d99ba05658563795fafc409",
+    "bytes": 124
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/documentos/factura_pendiente.txt",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "0ee9a3f59e32986ffcbbe62e5b9a723f0254f64afdab142c37e952d2ccf8475c",
+    "bytes": 159
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/documentos/nota_final.log",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "f0b6b2d5cceb4e6061f5bac20d318e5e41d4149674a59630dc1ca005d944c59c",
+    "bytes": 138
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/facturas/apuntes_07.txt",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "050e8cb03b966f3e38bb04dbb0679dd6744e268451776585715e017c6f1543a0",
+    "bytes": 204
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/facturas/registro_B.md",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "75a4a6255f9f7e0b7db4c588fe0042cb8ce91ceec61101fbc508a8b633af9545",
+    "bytes": 148
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/facturas/resumen_azul.csv",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "33d405138ba7d549626db61e682c9409d2c6f3cf76600ee1f0b3f2073d898f6d",
+    "bytes": 83
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/informe.csv",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "179c07e134047862ad277c9f7e5611133191ff975d4b5941fd4e12031c3fc00b",
+    "bytes": 768
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/notas/documento_09.txt",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "7c1daa270ced04992c4c3dc232cf33929d7739a5bb809172851fe83e65cdd5d8",
+    "bytes": 157
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/notas/factura_ideas.log",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "6a2dcb98fb31f915702671420db42b46fdc12d50357a51db29da7b2433f3572e",
+    "bytes": 124
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/resultado/notas/lista_11.csv",
+    "origen": "Resultado conservado de Qwen; bytes sin cambios",
+    "sha256": "7cfb939f9e3acfd5d5233c0053dd6bd736a8b551db25e94cb35c6f4561abcb41",
+    "bytes": 110
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/apuntes_07.txt",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "050e8cb03b966f3e38bb04dbb0679dd6744e268451776585715e017c6f1543a0",
+    "bytes": 204
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/borrador_12.md",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "e2d5b7583c9f007856b6dca0ff716b11665c50f54ffdcf243c1a6e75fe424a06",
+    "bytes": 157
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/copia_archivo.log",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "050e8cb03b966f3e38bb04dbb0679dd6744e268451776585715e017c6f1543a0",
+    "bytes": 204
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/datos_04.json",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "781ed8a58e285639d45a680589be8ebcbcc6b4c86d99ba05658563795fafc409",
+    "bytes": 124
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/documento_09.txt",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "7c1daa270ced04992c4c3dc232cf33929d7739a5bb809172851fe83e65cdd5d8",
+    "bytes": 157
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/factura_ideas.log",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "6a2dcb98fb31f915702671420db42b46fdc12d50357a51db29da7b2433f3572e",
+    "bytes": 124
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/factura_pendiente.txt",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "0ee9a3f59e32986ffcbbe62e5b9a723f0254f64afdab142c37e952d2ccf8475c",
+    "bytes": 159
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/lista_11.csv",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "7cfb939f9e3acfd5d5233c0053dd6bd736a8b551db25e94cb35c6f4561abcb41",
+    "bytes": 110
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/nota_final.log",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "f0b6b2d5cceb4e6061f5bac20d318e5e41d4149674a59630dc1ca005d944c59c",
+    "bytes": 138
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/recorte_02.md",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "7c1daa270ced04992c4c3dc232cf33929d7739a5bb809172851fe83e65cdd5d8",
+    "bytes": 157
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/registro_B.md",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "75a4a6255f9f7e0b7db4c588fe0042cb8ce91ceec61101fbc508a8b633af9545",
+    "bytes": 148
+  },
+  {
+    "archivo": "pruebas/03-organizacion/resultados/qwen/entrada/resumen_azul.csv",
+    "origen": "Entrada conservada de Qwen",
+    "sha256": "33d405138ba7d549626db61e682c9409d2c6f3cf76600ee1f0b3f2073d898f6d",
+    "bytes": 83
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/apuntes_07.txt",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "050e8cb03b966f3e38bb04dbb0679dd6744e268451776585715e017c6f1543a0",
+    "bytes": 204
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/borrador_12.md",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "e2d5b7583c9f007856b6dca0ff716b11665c50f54ffdcf243c1a6e75fe424a06",
+    "bytes": 157
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/copia_archivo.log",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "050e8cb03b966f3e38bb04dbb0679dd6744e268451776585715e017c6f1543a0",
+    "bytes": 204
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/datos_04.json",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "781ed8a58e285639d45a680589be8ebcbcc6b4c86d99ba05658563795fafc409",
+    "bytes": 124
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/documento_09.txt",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "7c1daa270ced04992c4c3dc232cf33929d7739a5bb809172851fe83e65cdd5d8",
+    "bytes": 157
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/factura_ideas.log",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "6a2dcb98fb31f915702671420db42b46fdc12d50357a51db29da7b2433f3572e",
+    "bytes": 124
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/factura_pendiente.txt",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "0ee9a3f59e32986ffcbbe62e5b9a723f0254f64afdab142c37e952d2ccf8475c",
+    "bytes": 159
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/lista_11.csv",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "7cfb939f9e3acfd5d5233c0053dd6bd736a8b551db25e94cb35c6f4561abcb41",
+    "bytes": 110
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/nota_final.log",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "f0b6b2d5cceb4e6061f5bac20d318e5e41d4149674a59630dc1ca005d944c59c",
+    "bytes": 138
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/recorte_02.md",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "7c1daa270ced04992c4c3dc232cf33929d7739a5bb809172851fe83e65cdd5d8",
+    "bytes": 157
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/registro_B.md",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "75a4a6255f9f7e0b7db4c588fe0042cb8ce91ceec61101fbc508a8b633af9545",
+    "bytes": 148
+  },
+  {
+    "archivo": "pruebas/03-organizacion/inicial/entrada/resumen_azul.csv",
+    "origen": "Entrada intacta de Qwen; referencia común de las dos pruebas",
+    "sha256": "33d405138ba7d549626db61e682c9409d2c6f3cf76600ee1f0b3f2073d898f6d",
+    "bytes": 83
+  },
+  {
+    "archivo": "pruebas/03-organizacion/prompt.txt",
+    "origen": "Misión original literal",
+    "sha256": "6d37a0d2cad8efb5d3c05434dc92e250c9c635430c3c8e3c7e8825ad2320aee5",
+    "bytes": 675
+  },
+  {
+    "archivo": "pruebas/01-gastos/resultados/qwen/index.html",
+    "origen": "HTML final conservado del proyecto Qwen",
+    "sha256": "2798e7b5d5fb94b3932129693feef11581524344c9da3a8a34085baaf080fdbd",
+    "bytes": 31734
+  },
+  {
+    "archivo": "pruebas/01-gastos/material-recuperado/espacio-compartido/index.html",
+    "origen": "Archivo superviviente del espacio compartido: Liquid seguido de otra tarea de Qwen; no es una copia acreditada del resultado intacto de Liquid",
+    "sha256": "83228a17009e96a1ef6a49f964988bc3a25ac38605a82fed5be6e5d019f9bf47",
+    "bytes": 4230
+  },
+  {
+    "archivo": "pruebas/01-gastos/material-recuperado/espacio-compartido/script.js",
+    "origen": "Archivo superviviente del espacio compartido: Liquid seguido de otra tarea de Qwen; no es una copia acreditada del resultado intacto de Liquid",
+    "sha256": "df370d5d0138f3dc623cad4484ee5dc171b1eb410333bbda8d5b2cf5586665a3",
+    "bytes": 5833
+  },
+  {
+    "archivo": "pruebas/01-gastos/prompt.txt",
+    "origen": "Prompt original literal facilitado por el autor de la comparativa; mismo texto para ambos modelos",
+    "sha256": "2fdb58443550ce0d16504a2e1deb4d8b48a3e6c79efd3bb7c4cebc1344dff174",
+    "bytes": 1144
+  },
+  {
+    "archivo": "pruebas/02-inventario/prompt.txt",
+    "origen": "Prompt original literal facilitado por el autor de la comparativa; mismo texto para ambos modelos",
+    "sha256": "659e8190b6e7104b6938fd1b227e9660b9c201e71a13f7934894e5b42885595e",
+    "bytes": 881
+  }
+]

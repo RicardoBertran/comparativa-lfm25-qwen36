@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-10-16",
+  "metodo": "HTTP HEAD; para Marketplace, GET parcial tras rechazo de HEAD. Sin descargar pesos ni biblioteca jQuery.",
+  "enlaces": [
+    {
+      "nombre": "Python para Windows",
+      "url": "https://www.python.org/downloads/windows/",
+      "estado_http": 200,
+      "tipo": "Autor oficial; instalación"
+    },
+    {
+      "nombre": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/download",
+      "estado_http": 200,
+      "tipo": "Microsoft; instalación"
+    },
+    {
+      "nombre": "Cline en Marketplace",
+      "url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev",
+      "estado_http": 200,
+      "metodo": "GET parcial; HEAD no disponible",
+      "tipo": "Extensión oficial"
+    },
+    {
+      "nombre": "Conexión OpenAI Compatible en Cline",
+      "url": "https://docs.cline.bot/provider-config/openai-compatible",
+      "estado_http": 200,
+      "tipo": "Documentación oficial"
+    },
+    {
+      "nombre": "Publicaciones de llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp/releases",
+      "estado_http": 200,
+      "tipo": "Proyecto oficial; paquetes de motor"
+    },
+    {
+      "nombre": "Servidor de llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp/blob/master/tools/server/README.md",
+      "estado_http": 200,
+      "tipo": "Documentación oficial de parámetros y endpoints"
+    },
+    {
+      "nombre": "Modelo Liquid original",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+      "estado_http": 200,
+      "tipo": "Autor oficial"
+    },
+    {
+      "nombre": "Liquid GGUF Q4_K_M fijado por revisión",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF/blob/0912d33141f77e10705345a6732bfd83f0252fdc/LFM2.5-24B-A2B-Q4_K_M.gguf",
+      "estado_http": 200,
+      "tipo": "Autor oficial; hash coincide con el archivo local"
+    },
+    {
+      "nombre": "Modelo Qwen original",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "estado_http": 200,
+      "tipo": "Autor oficial; no es una descarga GGUF"
+    },
+    {
+      "nombre": "Qwen Q4_K_M alternativo de bartowski",
+      "url": "https://huggingface.co/bartowski/Qwen_Qwen3.6-35B-A3B-GGUF/blob/5c2410d71524f4f72b023ce8daf7a80528226d5f/Qwen_Qwen3.6-35B-A3B-Q4_K_M.gguf",
+      "estado_http": 200,
+      "tipo": "Cuantización de un tercero; no coincide con el archivo local"
+    },
+    {
+      "nombre": "Repositorio Unsloth consultado",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "estado_http": 200,
+      "tipo": "Tercero; ofrece UD-Q4_K_M, que no se presenta como la misma cuantización"
+    },
+    {
+      "nombre": "jQuery incluido como referencia externa en el HTML",
+      "url": "https://code.jquery.com/jquery-3.6.0.min.js",
+      "estado_http": 200,
+      "tipo": "Solo comprobación de cabecera HTTP; biblioteca no redistribuida"
+    },
+    {
+      "nombre": "Qwen GGUF exacto de ggml-org a revisión fija",
+      "url": "https://huggingface.co/ggml-org/Qwen3.6-35B-A3B-GGUF/blob/baec3ebee244827cda0f4557eafa8b28f7545fa6/Qwen3.6-35B-A3B-Q4_K_M.gguf",
+      "estado_http": 200,
+      "tipo": "Coincidencia remota de tamaño y SHA-256 comprobada además mediante API"
+    }
+  ]
+}

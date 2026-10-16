@@ -1,0 +1,6 @@
+FACTURA FICTICIA F-001
+Emisor: Taller Imaginario Alfa
+Cliente: Proyecto Demo
+Concepto: 3 cajas de material de prueba
+Base: 60 EUR; IVA: 12,60 EUR; Total: 72,60 EUR
+Datos inventados para una prueba.
